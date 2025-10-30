@@ -97,10 +97,10 @@ Minikube allows you to run both master and node processes on a single machine, w
 This command starts the Minikube environment, setting up a local Kubernetes cluster on your machine:
 ```
 minikube start
-````
+```
 
 This command displays the nodes in your Minikube cluster, verifying that the cluster has been set up successfully.
-````
+```
 kubectl get nodes
 ```
 
